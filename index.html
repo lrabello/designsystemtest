@@ -1,9 +1,19 @@
-<div class="ms-rtestate-read ms-rte-wpbox" contenteditable="false">
-    <div class="ms-rtestate-notify  ms-rtestate-read 7b944fd7-e68c-44c6-ba59-9eae96d112e9" id="div_7b944fd7-e68c-44c6-ba59-9eae96d112e9" unselectable="on">
+<div id="main-header">
+    <div class="hv-logo">​​​​​​​​​​​​​​​​​​​​​​​​​​​ 
+       <img src="/sites/DesignSystem/SiteAssets/Images/HitachiLogo.png" alt=""/> 
+       <span class="divider"></span>
+       <p class="app-name">Design System</p>
     </div>
-    <div id="vid_7b944fd7-e68c-44c6-ba59-9eae96d112e9" unselectable="on" style="display: none;">
-    </div>
- </div>​
+    <button class="hv-items">
+      <a href="https://lumada-design.github.io/hv-uikit-react" target="_blank">
+        <img class="uikit-btn" src="/sites/DesignSystem/SiteAssets/Iconography/S_D/Code.S_D.svg" alt="code icon"/>      
+        UI-Kit Repository
+      </a>       ​​​​​​​​​​​​​​​​
+    </button>
+ </div>
+ <div class="second-logo">
+
+ </div>
  <article class="pattern-library"><header><img class="brand-pattern" src="img/BrandPattern5.svg" data-themekey="#" alt="" style="width: 59px;"/>
        <h1>Pattern Library</h1>
        <span class="ds-version">Version 3.1.1</span><span class="horizontal-divider"></span>
@@ -260,6 +270,109 @@
         background-color: #E8E8E8;
         border-radius: 2px;
     }
+
+
+    /****************************** HEADER *******************************/
+
+    #main-header {
+    /*position: fixed;*/
+    height: 26px;
+    background-color: #fbfcfc;
+    border-top: 4px solid #cc0000;
+    padding: 20px;
+    /*top: 85px;*/
+    right: 0;
+    left: 0;
+    z-index: 999;
+    box-shadow: 0 2px 12px rgba(65,65,65,0.12);
+}
+p.app-name {
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block!important;
+    margin-left: 16px;
+    position: absolute;
+    margin-top: 4px;
+}
+.app-name img {
+   width: 100px; 
+} 
+span.divider {
+    display: block;
+    height: 20px;
+    width: 1px;
+    margin: 0 10px;
+    background-color: #414141;
+    position: absolute;
+    top: 24px;
+} 
+span.divider, .hv-logo {
+    display: inline-block;
+}
+.hv-logo img {
+    width: 110px;
+}
+#sideNavBox ul {
+  margin-top: 103px!important;  /*NEW NAV*/
+  padding-bottom: 80px;
+}
+div#sideNavBox {
+  padding-top: 90px!important; /*NEW NAV*/
+}
+div#contentBox {
+    margin-left: 0px!important;  /*NEW NAV*/
+}
+ /*********************************************  TEST  *******************************************/
+
+ #contentRow {
+  padding-top: 0!important;
+}
+div#contentBox, #contentBox {
+  margin-left: 0px!important;
+}
+
+#main-header {
+  position: absolute!important;
+  top: 0!important;
+  /*margin-top: -20px;*/
+}
+button.hv-items {
+  float: right;
+  height: 32px;
+  padding: 0 20px;
+  border-radius: 2px;
+  border: 1px solid #CCCED0;
+  background-color: #fbfcfc;
+  font-family: 'Open Sans', sans-serif;
+}
+.hv-items a {
+  color: #414141!important;
+  font-size: 12px;
+  font-weight: 600;
+}
+.hv-items:hover {
+  background-color: #E8E8E8;
+  border-color: #CCCED0;
+}
+.hv-items img {
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+
+.second-logo {
+    position: fixed;
+    width: 110px;
+    background-color: #cc0000;
+    background-image: url('/sites/DesignSystem/SiteAssets/Images/HitachiLogo2.png');
+    top: 98px;
+    height: 32px;
+    margin-left: -236px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-position: center;
+}
+/********************* END HEADER *****************************/
     </style>  
     <br/>
     <br/>​<br/>
