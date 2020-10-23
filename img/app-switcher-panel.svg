@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="150" viewBox="0 0 378 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="378" height="150" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="App_Switcher_Panel" data-name="App Switcher Panel" clip-path="url(#clip-path)">
+    <rect id="Rectangle_2317" data-name="Rectangle 2317" width="378" height="150" fill="none"/>
+    <line id="Line_2525" data-name="Line 2525" x2="176" transform="translate(101.5 28.5)" fill="none" stroke="#bcbcbc" stroke-width="1"/>
+    <g id="Group_8697" data-name="Group 8697" transform="translate(6832.012 -383)">
+      <g id="Group_8652" data-name="Group 8652" transform="translate(-6730.012 514) rotate(-90)">
+        <line id="Line_2523" data-name="Line 2523" y1="51.512" transform="translate(97.5)" fill="none" stroke="#bcbcbc" stroke-width="1"/>
+        <line id="Line_2524" data-name="Line 2524" x2="98" transform="translate(0 51.512)" fill="none" stroke="#bcbcbc" stroke-width="1"/>
+      </g>
+      <rect id="Rectangle_3019" data-name="Rectangle 3019" width="8" height="8" transform="translate(-6721 436)" fill="#414141"/>
+      <rect id="Rectangle_3020" data-name="Rectangle 3020" width="8" height="8" transform="translate(-6721 472)" fill="#414141"/>
+      <rect id="Rectangle_3064" data-name="Rectangle 3064" width="8" height="8" transform="translate(-6721 454)" fill="#414141"/>
+    </g>
+  </g>
+</svg>

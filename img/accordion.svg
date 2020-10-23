@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="150" viewBox="0 0 378 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8710" data-name="Group 8710" transform="translate(-601 -5255)">
+    <rect id="Rectangle_3066" data-name="Rectangle 3066" width="378" height="150" transform="translate(601 5255)" fill="none"/>
+    <g id="Group_8709" data-name="Group 8709">
+      <path id="Path_1676" data-name="Path 1676" d="M0,0H8V51.178H0Z" transform="translate(754.205 5316.794) rotate(-90)" fill="#414141"/>
+      <path id="Path_1678" data-name="Path 1678" d="M0,0H8V40H0Z" transform="translate(754.205 5353.206) rotate(-90)" fill="#414141"/>
+      <path id="Path_1678-2" data-name="Path 1678" d="M0,0H8V83.331H0Z" transform="translate(754.205 5335.206) rotate(-90)" fill="#414141"/>
+      <g id="AngleDown-12" transform="translate(722 5297)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_315" data-name="Rectangle 315" width="32" height="32" fill="none"/>
+        <g id="Group_3924" transform="translate(11.4 11.8)">
+          <path id="Path_1606" d="M530.2,928.8,526,933l4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1607" d="M527.8,937.2,532,933l-4.2-4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1608" d="M533.2,934.2,529,930l-4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1991" data-name="Path 1991" d="M529,936.7l-4.6-4.6.7-.7,3.9,3.9,3.9-3.9.7.7Z" transform="translate(-524.4 -928.8)" fill="#414141"/>
+        </g>
+      </g>
+      <g id="DropDown.XS" transform="translate(722 5315)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_315-2" data-name="Rectangle 315" width="32" height="32" fill="none"/>
+        <g id="Group_3924-2" data-name="Group_3924" transform="translate(11.4 11.8)">
+          <path id="Path_1606-2" data-name="Path_1606" d="M530.2,928.8,526,933l4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1607-2" data-name="Path_1607" d="M527.8,937.2,532,933l-4.2-4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1608-2" data-name="Path_1608" d="M533.2,934.2,529,930l-4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1991-2" data-name="Path 1991" d="M529,936.7l-4.6-4.6.7-.7,3.9,3.9,3.9-3.9.7.7Z" transform="translate(-524.4 -928.8)" fill="#414141"/>
+        </g>
+      </g>
+      <g id="DropDown.XS-2" data-name="DropDown.XS" transform="translate(722 5333)" clip-path="url(#clip-path)">
+        <rect id="Rectangle_315-3" data-name="Rectangle 315" width="32" height="32" fill="none"/>
+        <g id="Group_3924-3" data-name="Group_3924" transform="translate(11.4 11.8)">
+          <path id="Path_1606-3" data-name="Path_1606" d="M530.2,928.8,526,933l4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1607-3" data-name="Path_1607" d="M527.8,937.2,532,933l-4.2-4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1608-3" data-name="Path_1608" d="M533.2,934.2,529,930l-4.2,4.2" transform="translate(-524.4 -928.8)" fill="none"/>
+          <path id="Path_1991-3" data-name="Path 1991" d="M529,936.7l-4.6-4.6.7-.7,3.9,3.9,3.9-3.9.7.7Z" transform="translate(-524.4 -928.8)" fill="#414141"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

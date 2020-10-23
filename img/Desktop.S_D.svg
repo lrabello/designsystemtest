@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Desktop.S_D" clip-path="url(#clip-path)">
+    <rect id="Rectangle_724" data-name="Rectangle 724" width="32" height="32" fill="none"/>
+    <g id="Group_4000" data-name="Group 4000" transform="translate(-339 -287)">
+      <g id="Rectangle_1748" transform="translate(347 296)">
+        <rect id="Rectangle_1899" data-name="Rectangle 1899" width="16" height="12" fill="none"/>
+        <path id="Path_1962" data-name="Path 1962" d="M16,12H0V0H16ZM1,11H15V1H1Z" fill="#58C9DD"/>
+      </g>
+      <rect id="Rectangle_1899-2" data-name="Rectangle 1899" width="8" height="1" transform="translate(351 309)" fill="#58C9DD"/>
+    </g>
+  </g>
+</svg>
