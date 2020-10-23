@@ -15,16 +15,38 @@
     <ul>
         <li>
             <a href="#">Home</a>
+        </li>
+        <li>
             <a href="#">Collaboration</a>
+        </li>
+        <li>
             <a href="#">Onboarding</a>
+        </li>
+        <li>
             <a href="#">Resources</a>
+        </li>
+        <li>
             <a href="#">Styleguide</a>
+        </li>
+        <li>
             <a href="#">Pattern Library</a>
+        </li>
+        <li>
             <a href="#">Visualization Library</a>
+        </li>
+        <li>
             <a href="#">Iconography</a>
+        </li>
+        <li>
             <a href="#">Prototypes</a>
+        </li>
+        <li>
             <a href="#">Guides</a>
+        </li>
+        <li>
             <a href="#">Releases</a>
+        </li>
+        <li>
             <a href="#">Useful links</a>
         </li>
     </ul>
@@ -293,7 +315,7 @@
 
     /****************************** HEADER *******************************/
 
-    #main-header {
+#main-header {
     /*position: fixed;*/
     height: 26px;
     background-color: #fbfcfc;
@@ -343,7 +365,7 @@ div#contentBox {
 }
  /*********************************************  TEST  *******************************************/
 
- #contentRow {
+#contentRow {
   padding-top: 0!important;
 }
 div#contentBox, #contentBox {
@@ -393,6 +415,9 @@ button.hv-items {
     background-position: center;
 }
 /********************* END HEADER *****************************/
+article.pattern-library {
+    margin-left: 225px;
+}
 article header {
     background-color: rgba(204, 204, 204, 0.1);
     padding: 20px 30px;
@@ -413,9 +438,27 @@ article header h1 {
 }
 
 /* Vertical navigation */
-#vertical-nav {
-    width: 300px;
-    background-color: #f0f0f0;
+nav#vertical-nav {
+    position: absolute;
+    width: 225px;
+    background-color: #FBFCFC;
+    height: 100vh;
+}
+#vertical-nav ul {
+   list-style: none;
+   padding: 40px 10px;
+   margin: 0;
+}
+#vertical-nav ul li {
+    margin: 0 20px 10px 20px;
+    padding: 10px;
+}
+#vertical-nav ul li a {
+    white-space: nowrap;
+   text-decoration: none;
+   color: #414141;
+   font-size: 12px;
+   font-weight: 400;
 }
     </style>  
     <br/>
